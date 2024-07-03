@@ -5,6 +5,9 @@
 #include <cstdlib>
 #include <ctime>
 
+
+// main logic of game
+
 bool game_over;
 const int width = 20;
 const int height = 20;
